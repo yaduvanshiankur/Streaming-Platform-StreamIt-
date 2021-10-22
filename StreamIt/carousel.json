@@ -1,0 +1,32 @@
+{
+    "carousel" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "images/sacred (1).jpg",
+            "alt" : "carouselImage",
+            "name" : "Sacred Games",
+            "description" : "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+        },
+        {
+            "href" : "dark.html",
+            "src" : "images/dark (1).jpg",
+            "alt" : "carouselImage",
+            "name" : "DARK",
+            "description" : "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
+        },
+        {
+            "href" : "thelastship.html",
+            "src" : "images/last (1).jpg",
+            "alt" : "carouselImage",
+            "name" : "The Last Ship",
+            "description" : "Navy Captain Tom Chandler (Eric Dane) and his crew must find a cure after a pandemic wipes out billions of people worldwide."
+        },
+        {
+            "href" : "boys.html",
+            "src" : "images/boys (1).jpg",
+            "alt" : "carouselImage",
+            "name" : "The Boys",
+            "description" : "An irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good."
+        }
+    ]
+}
